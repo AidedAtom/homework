@@ -31,7 +31,7 @@ bool check(int n){
 int main(){
 int x;
 int smh;
-for(int i = 0; x!=0 ;){
+for(int i = 0; x!=0 ;i++){
     cin>>x;
     if(check(x)){
         m[i] = x;
